@@ -33,7 +33,6 @@ mine enemies, unto the causing of them to quake before me.*
   + [Data sets](https://www.kaggle.com/datasets)
   + [NBA EDA](https://github.com/byu-stat-223/nba-players)
   + [Google Playstore EDA](https://github.com/byu-stat-223/google-playstore)
--->
 
 #### 2019-02-25
 
@@ -314,8 +313,9 @@ in both perfect love and perfect humility. His brilliance is not the
   + Especially useful when theoretical derivations are unavailable, difficult, 
     or intractable.
 + [Flipping coins](l02_coins.nb.html)
+-->
 
-#### 2019-01-07
+#### 2019-03-04
 
 *He felt all that was sad, wicked, or bad,
 All the pain we would ever know.
@@ -324,15 +324,12 @@ His promise made long ago.
 Gethsemane. Jesus loves me,
 So He went willingly to Gethsemane.*
 
-\- Melanie Hoffman ([Gethsemane](https://www.lds.org/friend/2018/03/gethsemane?lang=eng))
+\- Melanie Hoffman ([Gethsemane](https://www.lds.org/friend/2018/03/gethsemane?lang=eng){target="_blank"})
 
 + Stat 123 Q&A
 + Overview of the course.
 + Getting Started in STAT 223
-  + [R](https://cran.r-project.org) and 
-  [RStudio](https://www.rstudio.com/products/rstudio/download/preview/)
-  + [Computer Setup](setup.html)
-  + [Intro survey](https://goo.gl/forms/UXP7YiTUZ7yUZqJf1)
+  + [RStudio Cloud](https://rstudio.cloud/spaces/12013/join?access_code=%2FuNEAx5IL8uETOvrksWGQHyrrJxLJgklk8JPG%2FXj){target="_blank"}
 + [STAT 223 coding standards](coding-standards.html)
-+ [Review of STAT 123](l01_review.nb.html)
-+ [Homework 1](hw1.html) is assigned (due 2019-01-14 at 11:59pm)
++ [Review of STAT 123](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"} (Lecture 01)
++ [Homework 1](https://rstudio.cloud/spaces/12013/project/245724){target="_blank"} is assigned (due 2019-03-11 at 11:59pm)
