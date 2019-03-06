@@ -278,8 +278,9 @@ assess Monte Carlo (simulation) error
   + [Demonstration of central limit theorem](l03_central_limit_theorem.nb.html)
   + [Reflipping coins when tails](l03_flipping_coins.nb.html)
 + [Homework 2](hw2.html) is assigned (Due 2019-01-22 at 11:59pm)
+-->
 
-#### 2019-01-09
+#### 2019-03-06
 
 *I testify that his intelligence is vastly superior in every field to the very 
 brightest mortals in those fields and that his intellect in scope and truth far 
@@ -287,17 +288,15 @@ exceeds all human intellects. I thank him for encapsulating that exquisite mind
 in both perfect love and perfect humility. His brilliance is not the 
 “catch-me-if-you-can” kind, but a pleading and patient, “Come, follow me.”*
 
-\- Neal A. Maxwell ([GC April 1976](https://www.lds.org/general-conference/1976/04/jesus-of-nazareth-savior-and-king?lang=eng))
+\- Neal A. Maxwell ([GC April 1976](https://www.lds.org/general-conference/1976/04/jesus-of-nazareth-savior-and-king?lang=eng){target="_blank"})
 
-+ R Moment: [Shiny](http://shiny.rstudio.com/gallery/)
-+ [Finish git and GitHub setup](setup.html)
-+ RStudio House Keeping
-  + Never save `.RData`
-  + Never restore `.RData`
-+ Getting started with [Homework 1](hw1.html)
-+ [Review of STAT 123](l01_review.nb.html)
-+ A word about [RMarkdown](https://rmarkdown.rstudio.com/) and 
-[Notebooks](https://rmarkdown.rstudio.com/r_notebooks)
++ Announcements
+  + I will be gone next week. TAs will lead each class with a video lecture from 
+  me
+  + [Utah County R User Group](https://www.meetup.com/utah-county-rug/){target="_blank"}
++ R Moment: [Shiny](http://shiny.rstudio.com/gallery/){target="_blank"}
++ A word about [RMarkdown](https://rmarkdown.rstudio.com/){target="_blank"} and 
+[Notebooks](https://rmarkdown.rstudio.com/r_notebooks){target="_blank"}
 + Introduction to simulation studies:
   + "Simulation study" and "Monte Carlo study" are synonymous.
   + Represent a real-world process programatically in order to evaluate statistical
@@ -312,8 +311,8 @@ in both perfect love and perfect humility. His brilliance is not the
     + and many others...
   + Especially useful when theoretical derivations are unavailable, difficult, 
     or intractable.
-+ [Flipping coins](l02_coins.nb.html)
--->
++ [Flipping coins](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
+(`02/l02_coins.Rmd`)
 
 #### 2019-03-04
 
