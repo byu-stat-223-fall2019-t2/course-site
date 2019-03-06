@@ -294,6 +294,8 @@ in both perfect love and perfect humility. His brilliance is not the
   + I will be gone next week. TAs will lead each class with a video lecture from 
   me
   + [Utah County R User Group](https://www.meetup.com/utah-county-rug/){target="_blank"}
+  + If you do not have access to course materials / assignments on RStudio 
+  Cloud, send me an email and I'll make sure you have the appropriate access.
 + R Moment: [Shiny](http://shiny.rstudio.com/gallery/){target="_blank"}
 + A word about [RMarkdown](https://rmarkdown.rstudio.com/){target="_blank"} and 
 [Notebooks](https://rmarkdown.rstudio.com/r_notebooks){target="_blank"}
