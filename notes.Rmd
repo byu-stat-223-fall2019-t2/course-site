@@ -245,7 +245,7 @@ people in their afflictions.*
 
 + Announcements:
   + [Homework 2](https://rstudio.cloud/spaces/12013/project/260261){target="_blank"} is due Monday at 11:59pm
-+ R Moment: [r2d3](https://rstudio.github.io/r2d3/)
++ R Moment: [r2d3](https://rstudio.github.io/r2d3/){target="_blank"}
 + [Confidence Intervals](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
 (`04/l04_ci.Rmd`)
 + [Simulation Study Outline](sim-study-outline.html)
