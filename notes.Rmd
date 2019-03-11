@@ -246,6 +246,12 @@ people in their afflictions.*
 + Announcements:
   + [Homework 2](https://rstudio.cloud/spaces/12013/project/260261){target="_blank"} is due Monday at 11:59pm
 + R Moment: [r2d3](https://rstudio.github.io/r2d3/){target="_blank"}
++ <iframe src="https://drive.google.com/file/d/1KM98keBVdjT2FVjl-2wuXXS6IBgZWyUA/preview" width="640" height="480"></iframe>
+  + ***Note**: This video was recorded for last term, but covers the same
+  content as today's lecture. We weren't using RStudio Cloud, so I'm just using
+  RStudio on my desktop, but you should be able to follow along with the notes
+  in RStudio Cloud. Also, some of the logistics in this video don't apply to
+  this term (ie we do have class on Monday).*
 + [Confidence Intervals](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
 (`04/l04_ci.Rmd`)
 + [Simulation Study Outline](sim-study-outline.html)
@@ -264,6 +270,7 @@ capacity for obedience precisely for these reasons.*
   + [Homework 1](https://rstudio.cloud/spaces/12013/project/245724){target="_blank"} due today at 11:59pm
 + R Moment: [gganimate](https://github.com/thomasp85/gganimate){target="_blank"}
 + [Homework 1](https://rstudio.cloud/spaces/12013/project/245724){target="_blank"} questions
++ <iframe src="https://drive.google.com/file/d/1vUce3xktUepRxiwfIHvSp9DXMc39r7nO/preview" width="640" height="480"></iframe>
 + [Assessing uncertainty in simulation studies](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
 (`03/l03_flipping_coins.Rmd`)
 +  [The Central Limit Theorem](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
