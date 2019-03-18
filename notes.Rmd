@@ -213,22 +213,27 @@ is part of our nature—a part of who we are that does not change.*
 + [Homework 3](hw3.html) questions
 + [Simulation study for simple linear regression](l06_regression.nb.html)
 + [Homework 4](hw4.html) Assigned (Due 2019-02-04 at 11:59pm)
+-->
 
-#### 2019-01-23
+#### 2019-03-18
 
 *Face your doubts. Master your fears. “Cast not away therefore your confidence.”
 Stay the course and see the beauty of life unfold for you.*
 
-\- Jeffrey R. Holland ([BYU Devotional March 2, 1999](https://speeches.byu.edu/talks/jeffrey-r-holland_cast-not-away-therefore-your-confidence/))
+\- Jeffrey R. Holland ([BYU Devotional March 2, 1999](https://speeches.byu.edu/talks/jeffrey-r-holland_cast-not-away-therefore-your-confidence/){target="_blank"})
 
-+ Announcements
-  + [Utah County R User Group](https://www.meetup.com/utah-county-rug/)
-+ R Moment: [cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
++ Announcements:
+  + Midterm exam opens on Monday (2019-03-25)
+    + In-class review that day
+  + Due on Wednesday (2019-03-27) at 11:59pm
+  + Open notes, open internet, **not open neighbor**
++ R Moment: [cheatsheets](https://www.rstudio.com/resources/cheatsheets/){target="_blank"}
 + [Simulation Study Outline](sim-study-outline.html)
-+ [In class exercise](l05_practice.nb.html) ([Solutions](l05_practice_answers.nb.html))
-+ [Hypothesis Test](l05_mean.nb.html)
-+ [Homework 3](hw3.html) Assigned (Due 2019-01-28 at 11:59pm)
--->
++ [In class exercise](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
+(`05/l05_practice.Rmd`)
++ [Hypothesis Test](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
+(`05/l05_mean.Rmd`)
++ [Homework 3](https://rstudio.cloud/spaces/12013/project/270863){target="_blank"} Assigned (Due 2019-03-25 at 11:59pm)
 
 #### 2019-03-13
 
