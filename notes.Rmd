@@ -198,8 +198,9 @@ much more than the rate at which we are moving.*
   + [Z-test on proportions](l07_ztest_prop.nb.html)
   + [M&M Experiment](l07_mm.nb.html)
 + [Practice Midterm](practice-midterm.html)
+-->
 
-#### 2019-01-28
+#### 2019-03-20
 
 *Within each one of us, regardless of our own unique circumstances, challenges,
 and even mistakes we have made, there is currently an essence of the divine. It
@@ -207,13 +208,10 @@ is part of our nature—a part of who we are that does not change.*
 
 \- Kevin J. Worthen ([BYU Devotional January 8, 2019](https://speeches.byu.edu/talks/kevin-j-worthen_knowing-who-you-are/){target="_blank"})
 
-+ Announcements:
-  + RStudio::conf talks are now [online](https://resources.rstudio.com/rstudio-conf-2019){target="_blank"}
 + R Moment: [Local Interpretable Model-agnostic Explanations (lime)](https://github.com/thomasp85/lime){target="_blank"}
-+ [Homework 3](hw3.html) questions
-+ [Simulation study for simple linear regression](l06_regression.nb.html)
-+ [Homework 4](hw4.html) Assigned (Due 2019-02-04 at 11:59pm)
--->
++ [Homework 3](https://rstudio.cloud/spaces/12013/project/270863){target="_blank"} questions
++ [Simulation study for simple linear regression](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
+(`06/l06_regression.Rmd`)
 
 #### 2019-03-18
 
