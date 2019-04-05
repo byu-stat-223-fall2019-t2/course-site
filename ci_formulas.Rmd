@@ -21,7 +21,7 @@ sd_x <- sd(x)
 sqrt_n <- sqrt(length(x))
 alpha <- 0.05
 
-ci <- x_bar + c(-1, 1) * qnorm(1 - alpha/2) * sd_x / sqrt(n)
+ci <- x_bar + c(-1, 1) * qnorm(1 - alpha/2) * sd_x / sqrt_n
 ```
 
 ---
