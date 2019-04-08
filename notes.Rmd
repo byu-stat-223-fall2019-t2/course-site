@@ -82,27 +82,27 @@ fear.”*
     + [Incarceration EDA](incarceration-eda.nb.html)
     + [Mortgage EDA](mortgage-eda.nb.html)
 + [Practice Final](practice-final.html)
+-->
 
-#### 2019-02-19
+#### 2019-04-08
 
-*“All that we call human history -- money, poverty, ambition, war, prostitution, 
-classes, empires, slavery -- [is] the long terrible story of man trying to find 
-something other than God which will make him happy.”*
+*Our present and our future will be happier if we are all always conscious of the future. As we make current decisions we should always be asking "where will this lead?"*
 
-\- C.S. Lewis ([Mere Christianity](https://www.goodreads.com/quotes/401009-all-that-we-call-human-history--money-poverty-ambition-war-prostitution){target="_blank"})
+\- Dallin H. Oaks ([GC April 2019](https://www.lds.org/general-conference/2019/04/media/session_3_talk_8/6023569787001?lang=eng){target="_blank"})
 
 + Announcements:
-  + First [Utah County R User Group (UC
-  RUG)](https://www.meetup.com/utah-county-rug/events/258603714/){target="_blank"} is today from 7-8 in W110 TNRB
+  + Final exam opens a week from today (2019-04-15)
 + R Moment: [RStudio Connect](https://www.rstudio.com/products/connect/){target="_blank"}
   + [RStudio Quickstart](https://www.rstudio.com/products/quickstart/){target="_blank"}
 + Introduction to [Permutation Tests](https://en.wikipedia.org/wiki/Resampling_(statistics)#Permutation_tests){target="_blank"}
 ![](hypothesis-testing.png)
-  + [Brothers](l10_brothers.nb.html)
-  + [Faithful](l10_faithful.nb.html)
-  + [GPA](l10_gpa.nb.html)
-+ [Homework 6](hw6.html) Assigned (Due 2019-02-25 at 11:59pm)
--->
+  + [Brothers](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
+(`10/l10_brothers.Rmd`)
+  + [Faithful](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
+(`10/l10_faithful.Rmd`)
+  + [GPA](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
+(`10/l10_gpa.Rmd`)
++ [Homework 5](https://rstudio.cloud/spaces/12013/project/300357){target="_blank"} Assigned (Due 2019-04-15 at 11:59pm)
 
 #### 2019-04-03
 
