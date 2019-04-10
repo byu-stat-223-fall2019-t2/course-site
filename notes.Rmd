@@ -53,8 +53,9 @@ less than the promised blessings.*
 + R Moment: [gt](https://gt.rstudio.com/){target="_blank"}
 + [Homework 6](hw6.html) questions
 + [Practice Final](practice-final.html) ([Solutions](practice-final-solutions.html))
+-->
 
-#### 2019-02-20
+#### 2019-04-10
 
 *The Lord is with us, mindful of us and blessing us in ways only He can do.
 Prayer can call down the strength and the revelation that we need to center our
@@ -67,28 +68,33 @@ fear.”*
 2018](https://www.lds.org/general-conference/2018/10/be-not-troubled?lang=eng){target="_blank"})
 
 + Announcements:
-  + Final exam opens 6:00pm Monday, 2019-02-25
-    + Exam administered and submitted through GitHub
+  + Statistics Closing Social Tomorrow
+    + 3:30 - 5:00 in the Crabtree building
+    + Ice Cream 3:30 - 4:00 in the hallway between rooms 123 and 135
+  + Final exam opens 6:00pm Monday, 2019-04-15
+    + Exam administered and submitted through RStudio Cloud
     + Commit and push early, and often
     + Open notes, open internet - not open neighbor
-    + Due 11:59pm on Wednesday (2019-02-27)
+    + Due 11:59pm on Wednesday (2019-04-17)
     + Plan on ~2-3 hours
 + R Moment: [h2o](https://www.h2o.ai/){target="_blank"}
++ Permutation Tests Continued
+  + [GPA](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
+(`10/l10_gpa.Rmd`)
 + [Enter the Tidyverse](https://www.tidyverse.org/){target="_blank"}
 
     ![](data-science-workflow.png)
 
   + [Tidy Tuesday Data](https://github.com/rfordatascience/tidytuesday){target="_blank"}
-    + [Incarceration EDA](incarceration-eda.nb.html)
-    + [Mortgage EDA](mortgage-eda.nb.html)
-+ [Practice Final](practice-final.html)
--->
 
 #### 2019-04-08
 
-*Our present and our future will be happier if we are all always conscious of the future. As we make current decisions we should always be asking "where will this lead?"*
+*Our present and our future will be happier if we are all always conscious of
+the future. As we make current decisions we should always be asking "where will
+this lead?"*
 
-\- Dallin H. Oaks ([GC April 2019](https://www.lds.org/general-conference/2019/04/media/session_3_talk_8/6023569787001?lang=eng){target="_blank"})
+\- Dallin H. Oaks ([GC April
+2019](https://www.lds.org/general-conference/2019/04/media/session_3_talk_8/6023569787001?lang=eng){target="_blank"})
 
 + Announcements:
   + Final exam opens a week from today (2019-04-15)
