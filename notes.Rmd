@@ -33,27 +33,28 @@ mine enemies, unto the causing of them to quake before me.*
   + [Data sets](https://www.kaggle.com/datasets)
   + [NBA EDA](https://github.com/byu-stat-223/nba-players)
   + [Google Playstore EDA](https://github.com/byu-stat-223/google-playstore)
+-->
 
-#### 2019-02-25
+#### 2019-04-15
 
 *Considering the Savior’s great promise for peace in this life and eternal life 
 in the life to come, discipleship is a price worth paying. It is a price we cannot 
 afford not to pay. By measure, the requirements of discipleship are much, much 
 less than the promised blessings.*
 
-\- James E. Faust ([GC October 2006](https://www.lds.org/general-conference/2006/10/discipleship?lang=eng))
+\- James E. Faust ([GC October 2006](https://www.lds.org/general-conference/2006/10/discipleship?lang=eng){target="_blank"})
 
 + Announcements:
   + Final exam opens 6:00pm Today
-    + Exam administered and submitted through GitHub
-    + Commit and push early, and often
+    + Exam administered and submitted through RStudio Cloud
     + Open notes, open internet - not open neighbor
-    + Due 11:59pm on Wednesday (2019-02-27)
+    + Due 11:59pm on Wednesday (2019-04-17)
     + Plan on ~2-3 hours
-+ R Moment: [gt](https://gt.rstudio.com/){target="_blank"}
-+ [Homework 6](hw6.html) questions
-+ [Practice Final](practice-final.html) ([Solutions](practice-final-solutions.html))
--->
++ R Moment: [rvest](https://rvest.tidyverse.org/index.html){target="_blank"}
++ [Practice Final](https://rstudio.cloud/spaces/12013/project/307411){target="_blank"}
++ Installing R and RStudio
+  + [R](https://cran.r-project.org/){target="_blank}
+  + [RStudio](https://www.rstudio.com/products/rstudio/download/#download){target="_blank}
 
 #### 2019-04-10
 
@@ -73,7 +74,6 @@ fear.”*
     + Ice Cream 3:30 - 4:00 in the hallway between rooms 123 and 135
   + Final exam opens 6:00pm Monday, 2019-04-15
     + Exam administered and submitted through RStudio Cloud
-    + Commit and push early, and often
     + Open notes, open internet - not open neighbor
     + Due 11:59pm on Wednesday (2019-04-17)
     + Plan on ~2-3 hours
