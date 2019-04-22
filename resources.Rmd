@@ -29,6 +29,9 @@ enable different aspects of the Data Science process.
 ### [Introduction to R](https://colinfay.me/intro-to-r/){target="_blank"}
 + Generally approachable introduction to the R language.
 
+### [R Graphics Cookbook](https://r-graphics.org/){target="_blank"}
++ Second edition containing 150+ recipes for creating excellent graphics in R.
+
 ### [Efficient R Programming](https://csgillespie.github.io/efficientR/){target="_blank"}
 * Great resource for becoming more familiar with R and using it more effectively.
 
