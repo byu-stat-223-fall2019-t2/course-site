@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content="James Blair" />
@@ -86,7 +87,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -247,18 +247,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -321,7 +309,7 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore">Syllabus</h1>
-<h3 class="subtitle">Stat 223, Winter 2019</h3>
+<h3 class="subtitle">Stat 223, Fall 2019</h3>
 <h4 class="author">James Blair</h4>
 
 </div>
@@ -360,7 +348,7 @@ $(document).ready(function () {
 </div>
 <div id="exams" class="section level2">
 <h2>Exams</h2>
-<p>There will be a take-home midterm exam on a date to be announced later. The final exam will also be take-home. Exams are designed to assess a student’s mastery of concepts, skills, and connections between lecture and homework. You are allowed to use course notes and resources from the internet to assist you during the exams. However, you are not allowed to discuss the exam with other students or work on the exam together. Exams must be individually completed and submitted.</p>
+<p>Both the midterm and the final exam will be take home exams. Exams are designed to assess a student’s mastery of concepts, skills, and connections between lecture and homework. You are allowed to use course notes and resources from the internet to assist you during the exams. However, you are not allowed to discuss the exam with other students or work on the exam together. Exams must be individually completed and submitted.</p>
 </div>
 <div id="grading" class="section level2">
 <h2>Grading</h2>
@@ -395,47 +383,15 @@ $(document).ready(function () {
 <div id="teaching-assistants" class="section level2">
 <h2>Teaching Assistants</h2>
 <ul>
-<li>Thomas Jensen | <a href="mailto:tompjensen@gmail.com">tompjensen@gmail.com</a>
-<ul>
-<li>Office Hours (235 TMCB):
-<ul>
-<li>Monday 9 - 10 am</li>
-<li>Wednesday 9 - 10 am</li>
-<li>Friday 9 - 10 am</li>
-</ul></li>
-</ul></li>
-<li>Brandon Allen | <a href="mailto:ballenor@comcast.net">ballenor@comcast.net</a>
-<ul>
-<li>Office Hours (235 TMCB):
-<ul>
-<li>Monday 12 - 12:50 pm</li>
-<li>Tuesday 10 - 11 am</li>
-<li>Thursday 10 am - 12 pm</li>
-<li>Friday 11 - 12 pm</li>
-</ul></li>
-</ul></li>
-<li>Adam Ott | <a href="mailto:adderotter@hotmail.com">adderotter@hotmail.com</a>
-<ul>
-<li>Office Hours (235 TMCB):
-<ul>
-<li>Tuesday 1:30 - 3 pm</li>
-<li>Thursday 1:30 - 3 pm</li>
-<li>Friday 1 - 2 pm</li>
-</ul></li>
-</ul></li>
-<li>Taiki Wada | <a href="mailto:tykiwada@gmail.com">tykiwada@gmail.com</a>
-<ul>
-<li>Office Hours (235 TMCB):
-<ul>
-<li>Monday 10 am - 12 pm</li>
-<li>Wednesday 10 am - 12 pm</li>
-</ul></li>
-</ul></li>
+<li>Adam Ott | <a href="mailto:adderotter@hotmail.com">adderotter@hotmail.com</a></li>
+<li>Dallin Biorn | <a href="mailto:biorndallin@gmail.com">biorndallin@gmail.com</a></li>
+<li>Jungeol Kim | <a href="mailto:ldskimjg@gmail.com">ldskimjg@gmail.com</a></li>
+<li>Matthew Morgan | <a href="mailto:matt4byu@gmail.com">matt4byu@gmail.com</a></li>
 </ul>
 </div>
 <div id="office-hours" class="section level2">
 <h2>Office Hours</h2>
-<p>My office is 237 TMCB. I will hold office hours on Mondays from 1:30-2:30 pm and Wednesdays from 12-1 pm.</p>
+<p>My office is 204 TMCB. I will hold office hours on Mondays from 1:00-1:30 pm and Wednesdays from 2:30-3:00 pm.</p>
 </div>
 <div id="honor-code" class="section level2">
 <h2>Honor Code</h2>
@@ -468,6 +424,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

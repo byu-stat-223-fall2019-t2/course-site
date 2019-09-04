@@ -33,7 +33,7 @@ mine enemies, unto the causing of them to quake before me.*
   + [Data sets](https://www.kaggle.com/datasets)
   + [NBA EDA](https://github.com/byu-stat-223/nba-players)
   + [Google Playstore EDA](https://github.com/byu-stat-223/google-playstore)
--->
+
 
 #### 2019-04-15
 
@@ -301,7 +301,9 @@ in both perfect love and perfect humility. His brilliance is not the
 + [Flipping coins](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
 (`02/l02_coins.Rmd`)
 
-#### 2019-03-04
+-->
+
+#### 2019-09-04
 
 *He felt all that was sad, wicked, or bad,
 All the pain we would ever know.
@@ -315,7 +317,7 @@ So He went willingly to Gethsemane.*
 + Stat 123 Q&A
 + Overview of the course.
 + Getting Started in STAT 223
-  + [RStudio Cloud](https://rstudio.cloud/spaces/12013/join?access_code=%2FuNEAx5IL8uETOvrksWGQHyrrJxLJgklk8JPG%2FXj){target="_blank"}
+  + [RStudio Cloud](https://rstudio.cloud/spaces/27975/join?access_code=FMplocv2xfiK2I%2BvxQsKcU9NL6pDyUyMFFuERruY){target="_blank"}
 + [STAT 223 coding standards](coding-standards.html)
-+ [Review of STAT 123](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"} (Lecture 01)
-+ [Homework 1](https://rstudio.cloud/spaces/12013/project/245724){target="_blank"} is assigned (due 2019-03-11 at 11:59pm)
++ [Review of STAT 123](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"} (Lecture 01)
++ [Homework 1](https://rstudio.cloud/spaces/27975/project/481629){target="_blank"} is assigned (due 2019-09-11 at 11:59pm)

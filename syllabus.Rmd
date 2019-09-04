@@ -1,6 +1,6 @@
 ---
 title: "Syllabus"
-subtitle: "Stat 223, Winter 2019"
+subtitle: "Stat 223, Fall 2019"
 author: "James Blair"
 output: html_document
 ---
@@ -55,13 +55,12 @@ of the material.*
 
 ## Exams
 
-There will be a take-home midterm exam on a date to be announced later.  The
-final exam will also be take-home.  Exams are designed to assess a student's 
-mastery of concepts, skills, and connections between lecture and homework. You 
-are allowed to use course notes and resources from the internet to assist you
-during the exams. However, you are not allowed to discuss the exam with other
-students or work on the exam together. Exams must be individually completed and
-submitted.
+Both the midterm and the final exam will be take home exams. Exams are designed
+to assess a student's mastery of concepts, skills, and connections between
+lecture and homework. You are allowed to use course notes and resources from the
+internet to assist you during the exams. However, you are not allowed to discuss
+the exam with other students or work on the exam together. Exams must be
+individually completed and submitted.
 
 
 ## Grading
@@ -80,31 +79,15 @@ within that time frame.
 
 ## Teaching Assistants
 
-* Thomas Jensen | [tompjensen@gmail.com](mailto:tompjensen@gmail.com)
-  * Office Hours (235 TMCB):
-    * Monday 9 - 10 am
-    * Wednesday 9 - 10 am
-    * Friday 9 - 10 am
-* Brandon Allen | [ballenor@comcast.net](mailto:ballenor@comcast.net)
-  * Office Hours (235 TMCB):
-    * Monday 12 - 12:50 pm
-    * Tuesday 10 - 11 am
-    * Thursday 10 am - 12 pm
-    * Friday 11 - 12 pm
 * Adam Ott | [adderotter@hotmail.com](mailto:adderotter@hotmail.com)
-  * Office Hours (235 TMCB):
-    * Tuesday 1:30 - 3 pm
-    * Thursday 1:30 - 3 pm
-    * Friday 1 - 2 pm
-* Taiki Wada | [tykiwada@gmail.com](mailto:tykiwada@gmail.com)
-  * Office Hours (235 TMCB):
-    * Monday 10 am - 12 pm
-    * Wednesday 10 am - 12 pm
+* Dallin Biorn | [biorndallin@gmail.com](mailto:biorndallin@gmail.com)
+* Jungeol Kim | [ldskimjg@gmail.com](mailto:ldskimjg@gmail.com)
+* Matthew Morgan | [matt4byu@gmail.com](mailto:matt4byu@gmail.com)
 
 ## Office Hours
 
-My office is 237 TMCB. I will hold office hours on Mondays from 1:30-2:30 pm and 
-Wednesdays from 12-1 pm.
+My office is 204 TMCB. I will hold office hours on Mondays from 1:00-1:30 pm and 
+Wednesdays from 2:30-3:00 pm.
 
 ## Honor Code
 
