@@ -298,6 +298,7 @@ in both perfect love and perfect humility. His brilliance is not the
     or intractable.
 + [Flipping coins](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
 (`02/l02_coins.Rmd`)
++ [Homework 2](https://rstudio.cloud/spaces/27975/project/502415){target="_blank"} is assigned (due 2019-09-16 at 11:59 pm)
 
 #### 2019-09-04
 
