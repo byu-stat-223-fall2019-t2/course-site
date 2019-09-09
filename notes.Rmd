@@ -264,8 +264,9 @@ capacity for obedience precisely for these reasons.*
 +  [The Central Limit Theorem](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
 (`03/l03_central_limit_theorem.Rmd`)
 + [Homework 2](https://rstudio.cloud/spaces/12013/project/260261){target="_blank"} is assigned (Due 2019-03-18 at 11:59pm)
+-->
 
-#### 2019-03-06
+#### 2019-09-09
 
 *I testify that his intelligence is vastly superior in every field to the very 
 brightest mortals in those fields and that his intellect in scope and truth far 
@@ -276,14 +277,11 @@ in both perfect love and perfect humility. His brilliance is not the
 \- Neal A. Maxwell ([GC April 1976](https://www.lds.org/general-conference/1976/04/jesus-of-nazareth-savior-and-king?lang=eng){target="_blank"})
 
 + Announcements
-  + I will be gone next week. TAs will lead each class with a video lecture from 
-  me
   + [Utah County R User Group](https://www.meetup.com/utah-county-rug/){target="_blank"}
   + If you do not have access to course materials / assignments on RStudio 
   Cloud, send me an email and I'll make sure you have the appropriate access.
-+ R Moment: [Shiny](http://shiny.rstudio.com/gallery/){target="_blank"}
-+ A word about [RMarkdown](https://rmarkdown.rstudio.com/){target="_blank"} and 
-[Notebooks](https://rmarkdown.rstudio.com/r_notebooks){target="_blank"}
++ R Moment: [Tidyverse](https://www.tidyverse.org/){target="_blank"}
++ HW 1 Questions
 + Introduction to simulation studies:
   + "Simulation study" and "Monte Carlo study" are synonymous.
   + Represent a real-world process programatically in order to evaluate statistical
@@ -300,8 +298,6 @@ in both perfect love and perfect humility. His brilliance is not the
     or intractable.
 + [Flipping coins](https://rstudio.cloud/spaces/12013/project/245727){target="_blank"}
 (`02/l02_coins.Rmd`)
-
--->
 
 #### 2019-09-04
 
