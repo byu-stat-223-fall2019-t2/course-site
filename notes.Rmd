@@ -243,28 +243,28 @@ people in their afflictions.*
 + [Confidence Intervals](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
 (`04/l04_ci.Rmd`)
 + [Simulation Study Outline](sim-study-outline.html)
+-->
 
-#### 2019-03-11
+#### 2019-09-11
 
-*Obedience opens the door to the constant companionship of the Holy Ghost. And
-the spiritual gifts and abilities activated by the power of the Holy Ghost
-enable us to avoid deception—and to see, to feel, to know, to understand, and 
-to remember things as they really are. You and I have been endowed with a greater
-capacity for obedience precisely for these reasons.*
+*Now, brothers and sisters, we must do our duty, whatever that duty might be.
+Peace may be denied for a season. Some of our liberties may be curtailed. We may
+be inconvenienced. We may even be called on to suffer in one way or another. But
+God our Eternal Father will watch over this nation and all of the civilized
+world who look to Him. He has declared, “Blessed is the nation whose God is the
+Lord” (Ps. 33:12). Our safety lies in repentance. Our strength comes of
+obedience to the commandments of God.*
 
-\- David A. Bednar ([Ensign June 2010](https://www.lds.org/ensign/2010/06/things-as-they-really-are?lang=eng){target="_blank"})
+\- Gordon B. Hinckley ([GC October 2001](https://www.churchofjesuschrist.org/general-conference/2001/10/the-times-in-which-we-live?lang=eng){target="_blank"})
 
 + Announcements:
-  + [Homework 1](https://rstudio.cloud/spaces/12013/project/245724){target="_blank"} due today at 11:59pm
-+ R Moment: [gganimate](https://github.com/thomasp85/gganimate){target="_blank"}
-+ [Homework 1](https://rstudio.cloud/spaces/12013/project/245724){target="_blank"} questions
-+ <iframe src="https://drive.google.com/file/d/1vUce3xktUepRxiwfIHvSp9DXMc39r7nO/preview" width="640" height="480"></iframe>
+  + [Homework 1](https://rstudio.cloud/spaces/27975/project/481629){target="_blank"} due today at 11:59pm
++ R Moment: [Shiny](http://shiny.rstudio.com/){target="_blank"}
++ [Homework 1](https://rstudio.cloud/spaces/27975/project/481629){target="_blank"} questions
 + [Assessing uncertainty in simulation studies](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
 (`03/l03_flipping_coins.Rmd`)
 +  [The Central Limit Theorem](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
 (`03/l03_central_limit_theorem.Rmd`)
-+ [Homework 2](https://rstudio.cloud/spaces/12013/project/260261){target="_blank"} is assigned (Due 2019-03-18 at 11:59pm)
--->
 
 #### 2019-09-09
 
