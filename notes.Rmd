@@ -217,8 +217,9 @@ Stay the course and see the beauty of life unfold for you.*
 + [Hypothesis Test](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
 (`05/l05_mean.Rmd`)
 + [Homework 3](https://rstudio.cloud/spaces/12013/project/270863){target="_blank"} Assigned (Due 2019-03-25 at 11:59pm)
+-->
 
-#### 2019-03-13
+#### 2019-09-16
 
 *And it came to pass that the voice of the Lord came to them in their
 afflictions, saying: Lift up your heads and be of good comfort, for I know of
@@ -232,18 +233,15 @@ people in their afflictions.*
 \- [Mosiah 24:13-14](https://www.lds.org/scriptures/bofm/mosiah/24.13-14?lang=eng){target="_blank"}
 
 + Announcements:
-  + [Homework 2](https://rstudio.cloud/spaces/12013/project/260261){target="_blank"} is due Monday at 11:59pm
+  + [Homework 2](https://rstudio.cloud/spaces/27975/project/502415){target="_blank"} is due today at 11:59pm
+  + Mock Career Fair on Thursday (2019-09-19) from 5-6 pm in the first floor lobby of the TMCB
 + R Moment: [r2d3](https://rstudio.github.io/r2d3/){target="_blank"}
-+ <iframe src="https://drive.google.com/file/d/1KM98keBVdjT2FVjl-2wuXXS6IBgZWyUA/preview" width="640" height="480"></iframe>
-  + ***Note**: This video was recorded for last term, but covers the same
-  content as today's lecture. We weren't using RStudio Cloud, so I'm just using
-  RStudio on my desktop, but you should be able to follow along with the notes
-  in RStudio Cloud. Also, some of the logistics in this video don't apply to
-  this term (ie we do have class on Monday).*
++ [Plotting Review](https://rstudio.cloud/spaces/27975/project/526480){target="_blank"}
++ [Simulation Study Outline](sim-study-outline.html)
++ [Simulation Study Exercise](https://rstudio.cloud/spaces/27975/project/526484){target="_blank"}
 + [Confidence Intervals](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
 (`04/l04_ci.Rmd`)
-+ [Simulation Study Outline](sim-study-outline.html)
--->
++ [Homework 3](https://rstudio.cloud/spaces/27975/project/526369){target="_blank"} is assigned (due 2019-09-23 at 11:59 pm)
 
 #### 2019-09-11
 
