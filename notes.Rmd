@@ -197,8 +197,9 @@ is part of our nature—a part of who we are that does not change.*
 + [Homework 3](https://rstudio.cloud/spaces/12013/project/270863){target="_blank"} questions
 + [Simulation study for simple linear regression](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
 (`06/l06_regression.Rmd`)
+-->
 
-#### 2019-03-18
+#### 2019-09-18
 
 *Face your doubts. Master your fears. “Cast not away therefore your confidence.”
 Stay the course and see the beauty of life unfold for you.*
@@ -206,18 +207,11 @@ Stay the course and see the beauty of life unfold for you.*
 \- Jeffrey R. Holland ([BYU Devotional March 2, 1999](https://speeches.byu.edu/talks/jeffrey-r-holland_cast-not-away-therefore-your-confidence/){target="_blank"})
 
 + Announcements:
-  + Midterm exam opens on Monday (2019-03-25)
-    + In-class review that day
-  + Due on Wednesday (2019-03-27) at 11:59pm
-  + Open notes, open internet, **not open neighbor**
+  + Upcoming Schedule
 + R Moment: [cheatsheets](https://www.rstudio.com/resources/cheatsheets/){target="_blank"}
-+ [Simulation Study Outline](sim-study-outline.html)
-+ [In class exercise](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
-(`05/l05_practice.Rmd`)
++ [Costume Party](https://rstudio.cloud/spaces/27975/project/532199){target="_blank"}
 + [Hypothesis Test](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
 (`05/l05_mean.Rmd`)
-+ [Homework 3](https://rstudio.cloud/spaces/12013/project/270863){target="_blank"} Assigned (Due 2019-03-25 at 11:59pm)
--->
 
 #### 2019-09-16
 
