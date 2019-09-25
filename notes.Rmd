@@ -4,6 +4,15 @@ output: html_document
 ---
 
 <!--
+Schedule:
+2019-09-30: In class midterm review
+2019-10-02: Midterm due. class canceled 
+2019-10-07: Finish BS. Introduce permutations (lecture 10) HW 4 is due. HW 5 is assigned.
+2019-10-09: Further permutations (finish lecture 10)
+2019-10-14: HW 5 is due. Tidyverse examples. 
+2019-10-16 (family pictures): Final review (TAs handle the review)
+2019-10-21: Last day of class; final exam due; class canceled
+
 Possible R Moments:
 - opencpu
 - htmlwidgets
@@ -159,8 +168,9 @@ salvation of God, and for his arm to be revealed.*
   + [Confidence interval](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
 (`08/l08_ci.Rmd`)
 + [Homework 4](https://rstudio.cloud/spaces/12013/project/289762){target="_blank"} Assigned (Due 2019-04-08 at 11:59pm)
+-->
 
-#### 2019-03-25 - Introduce bootstrapping and assign HW 4
+#### 2019-09-25
 
 *...Alma noted, “Time only is measured unto men.” Because speed is a measure of
 distance over time, if time becomes less relevant, so does speed. Thus, in
@@ -172,19 +182,29 @@ much more than the rate at which we are moving.*
 2019](https://speeches.byu.edu/talks/kevin-j-worthen_knowing-who-you-are/){target="_blank"})
 
 + Announcements:
-  + First exam starts at 6:00pm today
+  + Exam 1 opens a on Monday (2019-09-30)
+    + In class review on Monday (2019-09-30)
     + Exam administered and submitted through RStudio Cloud
     + Open notes, open internet - **not open neighbor**
-    + Due 11:59pm on Wednesday (2019-03-27) (No late submissions accepted)
+    + Due 11:59pm on Wednesday (2019-10-02) (No late submissions accepted)
     + Plan on ~2-3 hours
-    + No class Wednesday (2019-03-27)
-  + [Utah County R User Group](https://www.meetup.com/utah-county-rug/events/259516862/)
-    + Thursday (2019-03-28), 7:30pm - 8:30pm, 210 TNRB
+    + No class Wednesday (2019-10-02)
 + R Moment: [blogdown](https://bookdown.org/yihui/blogdown/){target="_blank"}
   + [rbind.io](https://support.rbind.io/about/)
-+ [Homework 3](https://rstudio.cloud/spaces/12013/project/270863){target="_blank"} Questions
-+ [Practice Midterm](https://rstudio.cloud/spaces/12013/project/277149){target="_blank"}
--->
++ Introduction to [Bootstrap](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)){target="_blank"}
+
+    "Bootstrapping is the practice of estimating properties of an estimator
+    (such as its variance) by measuring those properties when sampling from an
+    approximating distribution." -
+    [Wikipedia](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)){target="_blank"}
+
+  + [Bootstrap confidence interval on mean](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+(`08/l08_mean.Rmd`)
+  + [Memory loss](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+(`08/l08_memory.Rmd`)
+  + [Confidence interval](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+(`08/l08_ci.Rmd`)
++ [Homework 4](https://rstudio.cloud/spaces/27975/project/536228){target="_blank"} is assigned (due 2019-10-07 at 11:59 pm)
 
 #### 2019-09-23
 
