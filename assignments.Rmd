@@ -8,7 +8,7 @@ output: html_document
 #### [Homework 3](https://rstudio.cloud/spaces/27975/project/526369){target="_blank"} | *Due 2019-09-23 at 11:59pm* | [Solutions](https://rstudio.cloud/spaces/27975/project/571126){target="_blank"}
 #### [Midterm Exam](https://rstudio.cloud/spaces/27975/project/571116){target="_blank"} | *Due 2019-10-02 at 11:59pm*
 #### [Homework 4](https://rstudio.cloud/spaces/27975/project/536228){target="_blank"} | *Due 2019-10-07 at 11:59pm*
-#### Homework 5 | *Due 2019-10-14 at 11:59pm*
+#### [Homework 5](https://rstudio.cloud/spaces/27975/project/592748){target="_blank"} | *Due 2019-10-14 at 11:59pm*
 #### Final Exam | *Due 2019-10-21 at 11:59pm*
 
 ---
