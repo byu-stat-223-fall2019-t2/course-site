@@ -141,34 +141,32 @@ Christ truly is the “high priest of good things to come.”*
   + [Bootstrap troubles](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
 (`09/l09_bs_troubles.Rmd`)
 + [Homework 4](https://rstudio.cloud/spaces/12013/project/289762){target="_blank"} Questions
+-->
 
-#### 2019-04-01 - Test review
+#### 2019-10-07
 
-*Therefore, dearly beloved brethren, let us cheerfully do all things that lie in
-our power; and then may we stand still, with the utmost assurance, to see the 
-salvation of God, and for his arm to be revealed.*
+*Your struggles do not define you, but they can refine you.*
 
-\- [Doctrine and Covenants 123:17](https://www.lds.org/scriptures/dc-testament/dc/123.17){target="_blank"}
+\- Reyna I. Aburto (GC October 2019)
 
 + Announcements
-  + Exam 1 feedback and discussion on Wednesday (2019-04-03)
+  + Exam 1 feedback and discussion on Wednesday (2019-10-09)
 + R Moment: [reticulate](https://rstudio.github.io/reticulate/){target="_blank"}
-  + [Demo](https://rstudio.cloud/spaces/12013/project/289835){target="_blank"}
-+ Introduction to [Bootstrap](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)){target="_blank"}
-
-    "Bootstrapping is the practice of estimating properties of an estimator
-    (such as its variance) by measuring those properties when sampling from an
-    approximating distribution." -
-    [Wikipedia](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)){target="_blank"}
-
-  + [Bootstrap confidence interval on mean](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
-(`08/l08_mean.Rmd`)
-  + [Memory loss](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
-(`08/l08_memory.Rmd`)
-  + [Confidence interval](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
-(`08/l08_ci.Rmd`)
-+ [Homework 4](https://rstudio.cloud/spaces/12013/project/289762){target="_blank"} Assigned (Due 2019-04-08 at 11:59pm)
--->
++ [Homework 4](https://rstudio.cloud/spaces/27975/project/536228){target="_blank"} Questions
++ Bootstrap Continued
+  + [Bootstrap coverage](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+(`09/l09_bs_coverage.Rmd`)
+  + [Bootstrap troubles](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+(`09/l09_bs_troubles.Rmd`)
++ Introduction to [Permutation Tests](https://en.wikipedia.org/wiki/Resampling_(statistics)#Permutation_tests){target="_blank"}
+![](hypothesis-testing.png)
+  + [Brothers](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+(`10/l10_brothers.Rmd`)
+  + [Faithful](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+(`10/l10_faithful.Rmd`)
+  + [GPA](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+(`10/l10_gpa.Rmd`)
++ [Homework 5](https://rstudio.cloud/spaces/27975/project/592748){target="_blank"} Assigned (Due 2019-10-14 at 11:59pm)
 
 #### 2019-09-25
 
