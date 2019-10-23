@@ -7,10 +7,10 @@ This is the homepage for BYU Stats 223: Applied R Programming.
 
 ---
 
-**Section 001** | MW 3:25 - 4:45 | *2104 JKB*
+**Section 002** | MW 3:25 - 4:45 | *2104 JKB*
 
 
-**Section 003** | MW 4:55 - 6:15 | *2104 JKB*
+**Section 004** | MW 4:55 - 6:15 | *2104 JKB*
 
 ---
 
