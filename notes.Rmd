@@ -335,6 +335,6 @@ So He went willingly to Gethsemane.*
 
 <iframe src="https://drive.google.com/file/d/1taaVT314zHfDV_7uCaOEJGN9xIYuSnhk/preview" width="640" height="480"></iframe>
 
-+ [Course Syllabus](syllabus.html)
-+ [RStudio Cloud](https://rstudio.cloud/spaces/36306/join?access_code=lISYIpSfHOTpZuOcCrdybKFeJwClyi%2FC%2BtYmuyGE){target="_blank"}
-+ [Homework 1](https://rstudio.cloud/spaces/36306/project/642824){target="_blank"} is assigned (due 2019-10-30 at 11:59pm)
++ Please read through the [Course Syllabus](syllabus.html)
++ Please setup an account and login to [RStudio Cloud](https://rstudio.cloud/spaces/36306/join?access_code=lISYIpSfHOTpZuOcCrdybKFeJwClyi%2FC%2BtYmuyGE){target="_blank"}. If you use this link, it will automatically add you to the workspace for our class.
++ Take a look at and get started with [Homework 1](https://rstudio.cloud/spaces/36306/project/642824){target="_blank"}
