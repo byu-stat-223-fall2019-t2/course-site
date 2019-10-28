@@ -89,7 +89,7 @@ fear.”*
     + Plan on ~2-3 hours
 + R Moment: [h2o](https://www.h2o.ai/){target="_blank"}
 + Permutation Tests Continued
-  + [GPA](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [GPA](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`10/l10_gpa.Rmd`)
 + [Enter the Tidyverse](https://www.tidyverse.org/){target="_blank"}
 
@@ -112,11 +112,11 @@ this lead?"*
   + [RStudio Quickstart](https://www.rstudio.com/products/quickstart/){target="_blank"}
 + Introduction to [Permutation Tests](https://en.wikipedia.org/wiki/Resampling_(statistics)#Permutation_tests){target="_blank"}
 ![](hypothesis-testing.png)
-  + [Brothers](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [Brothers](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`10/l10_brothers.Rmd`)
-  + [Faithful](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [Faithful](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`10/l10_faithful.Rmd`)
-  + [GPA](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [GPA](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`10/l10_gpa.Rmd`)
 + [Homework 5](https://rstudio.cloud/spaces/12013/project/300357){target="_blank"} Assigned (Due 2019-04-15 at 11:59pm)
 
@@ -136,9 +136,9 @@ Christ truly is the “high priest of good things to come.”*
   
 + R Moment: [plumber](https://www.rplumber.io/){target="_blank"}
 + Bootstrap Continued
-  + [Bootstrap coverage](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [Bootstrap coverage](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`09/l09_bs_coverage.Rmd`)
-  + [Bootstrap troubles](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [Bootstrap troubles](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`09/l09_bs_troubles.Rmd`)
 + [Homework 4](https://rstudio.cloud/spaces/12013/project/289762){target="_blank"} Questions
 
@@ -153,17 +153,17 @@ Christ truly is the “high priest of good things to come.”*
 + R Moment: [reticulate](https://rstudio.github.io/reticulate/){target="_blank"}
 + [Homework 4](https://rstudio.cloud/spaces/27975/project/536228){target="_blank"} Questions
 + Bootstrap Continued
-  + [Bootstrap coverage](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [Bootstrap coverage](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`09/l09_bs_coverage.Rmd`)
-  + [Bootstrap troubles](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [Bootstrap troubles](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`09/l09_bs_troubles.Rmd`)
 + Introduction to [Permutation Tests](https://en.wikipedia.org/wiki/Resampling_(statistics)#Permutation_tests){target="_blank"}
 ![](hypothesis-testing.png)
-  + [Brothers](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [Brothers](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`10/l10_brothers.Rmd`)
-  + [Faithful](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [Faithful](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`10/l10_faithful.Rmd`)
-  + [GPA](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [GPA](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`10/l10_gpa.Rmd`)
 + [Homework 5](https://rstudio.cloud/spaces/27975/project/592748){target="_blank"} Assigned (Due 2019-10-14 at 11:59pm)
 
@@ -195,11 +195,11 @@ much more than the rate at which we are moving.*
     approximating distribution." -
     [Wikipedia](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)){target="_blank"}
 
-  + [Bootstrap confidence interval on mean](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [Bootstrap confidence interval on mean](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`08/l08_mean.Rmd`)
-  + [Memory loss](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [Memory loss](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`08/l08_memory.Rmd`)
-  + [Confidence interval](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+  + [Confidence interval](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`08/l08_ci.Rmd`)
 + [Homework 4](https://rstudio.cloud/spaces/27975/project/536228){target="_blank"} is assigned (due 2019-10-07 at 11:59 pm)
 
@@ -225,7 +225,7 @@ is part of our nature—a part of who we are that does not change.*
   + Homework 4 will be assigned Wednesday (2019-09-25) and is due 2019-10-07 at 11:59 pm
 + R Moment: [Local Interpretable Model-agnostic Explanations (lime)](https://github.com/thomasp85/lime){target="_blank"}
 + [Homework 3](https://rstudio.cloud/spaces/27975/project/526369){target="_blank"} questions
-+ [Simulation study for simple linear regression](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
++ [Simulation study for simple linear regression](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`06/l06_regression.Rmd`)
 
 #### 2019-11-06
@@ -239,7 +239,7 @@ Stay the course and see the beauty of life unfold for you.*
   + Upcoming Schedule
 + R Moment: [cheatsheets](https://www.rstudio.com/resources/cheatsheets/){target="_blank"}
 + [Costume Party](https://rstudio.cloud/spaces/27975/project/532199){target="_blank"}
-+ [Hypothesis Test](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
++ [Hypothesis Test](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`05/l05_mean.Rmd`)
 
 #### 2019-11-04
@@ -262,7 +262,7 @@ people in their afflictions.*
 + [Plotting Review](https://rstudio.cloud/spaces/27975/project/526480){target="_blank"}
 + [Simulation Study Outline](sim-study-outline.html)
 + [Simulation Study Exercise](https://rstudio.cloud/spaces/27975/project/526484){target="_blank"}
-+ [Confidence Intervals](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
++ [Confidence Intervals](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`04/l04_ci.Rmd`)
 + [Homework 3](https://rstudio.cloud/spaces/27975/project/526369){target="_blank"} is assigned (due 2019-09-23 at 11:59 pm)
 
@@ -282,10 +282,11 @@ obedience to the commandments of God.*
   + [Homework 1](https://rstudio.cloud/spaces/27975/project/481629){target="_blank"} due today at 11:59pm
 + R Moment: [Shiny](http://shiny.rstudio.com/){target="_blank"}
 + [Homework 1](https://rstudio.cloud/spaces/27975/project/481629){target="_blank"} questions
-+ [Assessing uncertainty in simulation studies](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
++ [Assessing uncertainty in simulation studies](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`03/l03_flipping_coins.Rmd`)
-+  [The Central Limit Theorem](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
++  [The Central Limit Theorem](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`03/l03_central_limit_theorem.Rmd`)
+-->
 
 #### 2019-10-28
 
@@ -299,10 +300,13 @@ in both perfect love and perfect humility. His brilliance is not the
 
 + Announcements
   + [Utah County R User Group](https://www.meetup.com/utah-county-rug/){target="_blank"}
-  + If you do not have access to course materials / assignments on RStudio 
-  Cloud, send me an email and I'll make sure you have the appropriate access.
+  + If you do not have access to course materials / assignments on RStudio
+  Cloud, click
+  [here](https://rstudio.cloud/spaces/36306/join?access_code=lISYIpSfHOTpZuOcCrdybKFeJwClyi%2FC%2BtYmuyGE){target="_blank".
+  If that doesn't work, send me an email and I'll make sure you have the
+  appropriate access.
 + R Moment: [Tidyverse](https://www.tidyverse.org/){target="_blank"}
-+ HW 1 Questions
++ [Homework 1](https://rstudio.cloud/spaces/36306/project/642824){target="_blank"} Questions
 + Introduction to simulation studies:
   + "Simulation study" and "Monte Carlo study" are synonymous.
   + Represent a real-world process programatically in order to evaluate statistical
@@ -317,10 +321,9 @@ in both perfect love and perfect humility. His brilliance is not the
     + and many others...
   + Especially useful when theoretical derivations are unavailable, difficult, 
     or intractable.
-+ [Flipping coins](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
++ [Flipping coins](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`02/l02_coins.Rmd`)
-+ [Homework 2](https://rstudio.cloud/spaces/27975/project/502415){target="_blank"} is assigned (due 2019-09-16 at 11:59 pm)
--->
++ [Homework 2](https://rstudio.cloud/spaces/36306/project/659054){target="_blank"} is assigned (due 2019-11-04 at 11:59 pm)
 
 #### 2019-10-23
 
