@@ -302,7 +302,7 @@ in both perfect love and perfect humility. His brilliance is not the
   + [Utah County R User Group](https://www.meetup.com/utah-county-rug/){target="_blank"}
   + If you do not have access to course materials / assignments on RStudio
   Cloud, click
-  [here](https://rstudio.cloud/spaces/36306/join?access_code=lISYIpSfHOTpZuOcCrdybKFeJwClyi%2FC%2BtYmuyGE){target="_blank".
+  [here](https://rstudio.cloud/spaces/36306/join?access_code=lISYIpSfHOTpZuOcCrdybKFeJwClyi%2FC%2BtYmuyGE){target="_blank"}.
   If that doesn't work, send me an email and I'll make sure you have the
   appropriate access.
 + R Moment: [Tidyverse](https://www.tidyverse.org/){target="_blank"}
