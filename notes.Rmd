@@ -280,6 +280,7 @@ to meet them.*
   + [Homework 1](https://rstudio.cloud/spaces/36306/project/642824){target="_blank"} due today at 11:59pm
 + R Moment: [Shiny](http://shiny.rstudio.com/){target="_blank"}
 + [Homework 1](https://rstudio.cloud/spaces/36306/project/642824){target="_blank"} questions
++ [Coding Standards](coding-standards.html)
 + [Assessing uncertainty in simulation studies](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`03/l03_flipping_coins.Rmd`)
 +  [The Central Limit Theorem](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
