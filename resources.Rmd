@@ -4,6 +4,9 @@ output: html_document
 ---
 
 ## Course Resources
+### [Coding Standards](coding-standards.html)
++ General guidelines for best coding practices.
+
 ### [Confidence Interval Formulas](ci_formulas.html)
 + Handy reference for confidence interval formulas for both mean and proportion 
 estimates.
