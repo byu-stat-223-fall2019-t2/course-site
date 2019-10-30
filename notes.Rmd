@@ -265,28 +265,26 @@ people in their afflictions.*
 + [Confidence Intervals](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`04/l04_ci.Rmd`)
 + [Homework 3](https://rstudio.cloud/spaces/27975/project/526369){target="_blank"} is assigned (due 2019-09-23 at 11:59 pm)
+-->
 
 #### 2019-10-30
 
-*Now, brothers and sisters, we must do our duty, whatever that duty might be.
-Peace may be denied for a season. Some of our liberties may be curtailed. We may
-be inconvenienced. We may even be called on to suffer in one way or another. But
-God our Eternal Father will watch over this nation and all of the civilized
-world who look to Him. He has declared, “Blessed is the nation whose God is the
-Lord” (Ps. 33:12). Our safety lies in repentance. Our strength comes of
-obedience to the commandments of God.*
+*Yes, you face challenges. But so does every generation. These are our days, and
+we need to be faithful, not faithless. I testify that the Lord knows about our
+challenges, and through the leadership of President Nelson, He is preparing us
+to meet them.*
 
-\- Gordon B. Hinckley ([GC October 2001](https://www.churchofjesuschrist.org/general-conference/2001/10/the-times-in-which-we-live?lang=eng){target="_blank"})
+\- Stephen W. Owen ([GC October 2019](https://www.churchofjesuschrist.org/study/general-conference/2019/10/13owen?lang=eng){target="_blank"})
 
 + Announcements:
-  + [Homework 1](https://rstudio.cloud/spaces/27975/project/481629){target="_blank"} due today at 11:59pm
+  + [Homework 1](https://rstudio.cloud/spaces/36306/project/642824){target="_blank"} due today at 11:59pm
 + R Moment: [Shiny](http://shiny.rstudio.com/){target="_blank"}
-+ [Homework 1](https://rstudio.cloud/spaces/27975/project/481629){target="_blank"} questions
++ [Homework 1](https://rstudio.cloud/spaces/36306/project/642824){target="_blank"} questions
 + [Assessing uncertainty in simulation studies](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`03/l03_flipping_coins.Rmd`)
 +  [The Central Limit Theorem](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`03/l03_central_limit_theorem.Rmd`)
--->
++ [Homework 2](https://rstudio.cloud/spaces/36306/project/659054){target="_blank"} questions
 
 #### 2019-10-28
 
