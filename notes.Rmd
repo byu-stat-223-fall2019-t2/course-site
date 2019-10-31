@@ -241,6 +241,7 @@ Stay the course and see the beauty of life unfold for you.*
 + [Costume Party](https://rstudio.cloud/spaces/27975/project/532199){target="_blank"}
 + [Hypothesis Test](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`05/l05_mean.Rmd`)
+-->
 
 #### 2019-11-04
 
@@ -256,16 +257,14 @@ people in their afflictions.*
 \- [Mosiah 24:13-14](https://www.lds.org/scriptures/bofm/mosiah/24.13-14?lang=eng){target="_blank"}
 
 + Announcements:
-  + [Homework 2](https://rstudio.cloud/spaces/27975/project/502415){target="_blank"} is due today at 11:59pm
-  + Mock Career Fair on Thursday (2019-09-19) from 5-6 pm in the first floor lobby of the TMCB
+  + [Homework 2](https://rstudio.cloud/spaces/36306/project/659054){target="_blank"} is due today at 11:59pm
 + R Moment: [r2d3](https://rstudio.github.io/r2d3/){target="_blank"}
-+ [Plotting Review](https://rstudio.cloud/spaces/27975/project/526480){target="_blank"}
++ [Plotting Review](https://rstudio.cloud/spaces/36306/project/669103){target="_blank"}
 + [Simulation Study Outline](sim-study-outline.html)
-+ [Simulation Study Exercise](https://rstudio.cloud/spaces/27975/project/526484){target="_blank"}
++ [Costume Party](https://rstudio.cloud/spaces/36306/project/669100){target="_blank"}
 + [Confidence Intervals](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`04/l04_ci.Rmd`)
-+ [Homework 3](https://rstudio.cloud/spaces/27975/project/526369){target="_blank"} is assigned (due 2019-09-23 at 11:59 pm)
--->
++ [Homework 3](https://rstudio.cloud/spaces/36306/project/664603){target="_blank"} is assigned (due 2019-11-11 at 11:59 pm)
 
 #### 2019-10-30
 
