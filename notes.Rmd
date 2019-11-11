@@ -167,7 +167,7 @@ Christ truly is the “high priest of good things to come.”*
 (`10/l10_gpa.Rmd`)
 + [Homework 5](https://rstudio.cloud/spaces/27975/project/592748){target="_blank"} Assigned (Due 2019-10-14 at 11:59pm)
 
-#### 2019-09-25
+#### 2019-11-13
 
 *...Alma noted, “Time only is measured unto men.” Because speed is a measure of
 distance over time, if time becomes less relevant, so does speed. Thus, in
@@ -179,13 +179,13 @@ much more than the rate at which we are moving.*
 2019](https://speeches.byu.edu/talks/kevin-j-worthen_knowing-who-you-are/){target="_blank"})
 
 + Announcements:
-  + Exam 1 opens a on Monday (2019-09-30)
-    + In class review on Monday (2019-09-30)
+  + Exam 1 opens a on Monday (2019-11-18)
+    + In class review on Monday (2019-11-18)
     + Exam administered and submitted through RStudio Cloud
     + Open notes, open internet - **not open neighbor**
-    + Due 11:59pm on Wednesday (2019-10-02) (No late submissions accepted)
+    + Due 11:59pm on Wednesday (2019-11-20) (No late submissions accepted)
     + Plan on ~2-3 hours
-    + No class Wednesday (2019-10-02)
+    + No class Wednesday (2019-11-20)
 + R Moment: [blogdown](https://bookdown.org/yihui/blogdown/){target="_blank"}
   + [rbind.io](https://support.rbind.io/about/)
 + Introduction to [Bootstrap](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)){target="_blank"}
@@ -201,11 +201,10 @@ much more than the rate at which we are moving.*
 (`08/l08_memory.Rmd`)
   + [Confidence interval](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`08/l08_ci.Rmd`)
-+ [Homework 4](https://rstudio.cloud/spaces/27975/project/536228){target="_blank"} is assigned (due 2019-10-07 at 11:59 pm)
++ [Homework 4](https://rstudio.cloud/spaces/36306/project/664614){target="_blank"} is assigned (due 2019-11-25 at 11:59pm)
+-->
 
-#### 2019-11-13 - Midterm exam (class is cancelled)
-
-#### 2019-11-11 - Review for midterm
+#### 2019-11-11
 
 *Within each one of us, regardless of our own unique circumstances, challenges,
 and even mistakes we have made, there is currently an essence of the divine. It
@@ -214,20 +213,19 @@ is part of our nature—a part of who we are that does not change.*
 \- Kevin J. Worthen ([BYU Devotional January 8, 2019](https://speeches.byu.edu/talks/kevin-j-worthen_knowing-who-you-are/){target="_blank"})
 
 + Announcements:
-  + This is the last lecture in preparation for the midterm
   + Exam 1 opens a week from today
-    + In class review on Monday (2019-09-30)
+    + In class review on Monday (2019-11-18)
     + Exam administered and submitted through RStudio Cloud
     + Open notes, open internet - **not open neighbor**
-    + Due 11:59pm on Wednesday (2019-10-02) (No late submissions accepted)
+    + Due 11:59pm on Wednesday (2019-11-20) (No late submissions accepted)
     + Plan on ~2-3 hours
-    + No class Wednesday (2019-10-02)
-  + Homework 4 will be assigned Wednesday (2019-09-25) and is due 2019-10-07 at 11:59 pm
+    + No class Wednesday (2019-11-20)
+  
 + R Moment: [Local Interpretable Model-agnostic Explanations (lime)](https://github.com/thomasp85/lime){target="_blank"}
-+ [Homework 3](https://rstudio.cloud/spaces/27975/project/526369){target="_blank"} questions
++ [Homework 3](https://rstudio.cloud/spaces/36306/project/664603){target="_blank"} questions
 + [Simulation study for simple linear regression](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`06/l06_regression.Rmd`)
--->
++ [Hypothesis Testing](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"} (`05/l05_mean.Rmd`)
 
 #### 2019-11-06
 
