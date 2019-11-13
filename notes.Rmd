@@ -166,6 +166,7 @@ Christ truly is the “high priest of good things to come.”*
   + [GPA](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`10/l10_gpa.Rmd`)
 + [Homework 5](https://rstudio.cloud/spaces/27975/project/592748){target="_blank"} Assigned (Due 2019-10-14 at 11:59pm)
+-->
 
 #### 2019-11-13
 
@@ -188,6 +189,7 @@ much more than the rate at which we are moving.*
     + No class Wednesday (2019-11-20)
 + R Moment: [blogdown](https://bookdown.org/yihui/blogdown/){target="_blank"}
   + [rbind.io](https://support.rbind.io/about/)
++ [Hypothesis Testing](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"} (`05/l05_mean.Rmd`)
 + Introduction to [Bootstrap](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)){target="_blank"}
 
     "Bootstrapping is the practice of estimating properties of an estimator
@@ -202,7 +204,6 @@ much more than the rate at which we are moving.*
   + [Confidence interval](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`08/l08_ci.Rmd`)
 + [Homework 4](https://rstudio.cloud/spaces/36306/project/664614){target="_blank"} is assigned (due 2019-11-25 at 11:59pm)
--->
 
 #### 2019-11-11
 
