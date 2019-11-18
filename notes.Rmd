@@ -141,32 +141,27 @@ Christ truly is the “high priest of good things to come.”*
   + [Bootstrap troubles](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`09/l09_bs_troubles.Rmd`)
 + [Homework 4](https://rstudio.cloud/spaces/12013/project/289762){target="_blank"} Questions
+-->
 
-#### 2019-10-07
+#### 2019-11-18
 
 *Your struggles do not define you, but they can refine you.*
 
 \- Reyna I. Aburto (GC October 2019)
 
 + Announcements
-  + Exam 1 feedback and discussion on Wednesday (2019-10-09)
+  + Exam 1 opens today at approximately 6:30pm
+  + Exam administered and submitted through RStudio Cloud
+  + Open notes, open internet - **not open neighbor**
+  + Due 11:59pm on Wednesday (2019-11-20) (No late submissions accepted)
+  + Plan on ~2-3 hours
+  + No class Wednesday (2019-11-20)
 + R Moment: [reticulate](https://rstudio.github.io/reticulate/){target="_blank"}
-+ [Homework 4](https://rstudio.cloud/spaces/27975/project/536228){target="_blank"} Questions
-+ Bootstrap Continued
-  + [Bootstrap coverage](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
-(`09/l09_bs_coverage.Rmd`)
-  + [Bootstrap troubles](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
-(`09/l09_bs_troubles.Rmd`)
-+ Introduction to [Permutation Tests](https://en.wikipedia.org/wiki/Resampling_(statistics)#Permutation_tests){target="_blank"}
-![](hypothesis-testing.png)
-  + [Brothers](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
-(`10/l10_brothers.Rmd`)
-  + [Faithful](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
-(`10/l10_faithful.Rmd`)
-  + [GPA](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
-(`10/l10_gpa.Rmd`)
-+ [Homework 5](https://rstudio.cloud/spaces/27975/project/592748){target="_blank"} Assigned (Due 2019-10-14 at 11:59pm)
--->
++ [Homework 4](https://rstudio.cloud/spaces/36306/project/664614){target="_blank"} Questions
++ [Exam Review](https://rstudio.cloud/spaces/36306/project/664663){target="_blank"}
+  + Exam 3: Late
+  + Exam 5: E-commerce
+  + Exam 4: Mike Trout
 
 #### 2019-11-13
 
