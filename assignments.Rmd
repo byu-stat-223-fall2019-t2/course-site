@@ -5,8 +5,8 @@ output: html_document
 
 #### [Homework 1](https://rstudio.cloud/spaces/36306/project/642824){target="_blank"} | *Due 2019-10-30 at 11:59pm* | [Solution](https://rstudio.cloud/spaces/36306/project/668101){target="_blank"}
 #### [Homework 2](https://rstudio.cloud/spaces/36306/project/659054){target="_blank"} | *Due 2019-11-04 at 11:59pm* | [Solution](https://rstudio.cloud/spaces/36306/project/707563){target="_blank"}
-#### [Homework 3](https://rstudio.cloud/spaces/36306/project/664603){target="_blank"} | *Due 2019-11-11 at 11:59pm*
-#### Midterm Exam | *Due 2019-11-20 at 11:59pm*
+#### [Homework 3](https://rstudio.cloud/spaces/36306/project/664603){target="_blank"} | *Due 2019-11-11 at 11:59pm* | [Solution](https://rstudio.cloud/spaces/36306/project/728379){target="_blank"}
+#### [Midterm Exam](https://rstudio.cloud/spaces/36306/project/728374){target="_blank"} | *Due 2019-11-20 at 11:59pm*
 #### [Homework 4](https://rstudio.cloud/spaces/36306/project/664614){target="_blank"} | *Due 2019-11-25 at 11:59pm*
 #### [Homework 5](https://rstudio.cloud/spaces/36306/project/664618){target="_blank"} | *Due 2019-12-09 at 11:59pm*
 #### Final Exam | *Due 2019-12-11 at 11:59pm*
