@@ -119,29 +119,24 @@ this lead?"*
   + [GPA](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`10/l10_gpa.Rmd`)
 + [Homework 5](https://rstudio.cloud/spaces/12013/project/300357){target="_blank"} Assigned (Due 2019-04-15 at 11:59pm)
+-->
 
-#### 2019-04-03 - Exam is due - no class
+#### 2019-11-25
 
-*Faith is for the future. Faith builds on the past but never longs to stay
-there. Faith trusts that God has great things in store for each of us and that
-Christ truly is the “high priest of good things to come.”*
+*Chidi, here's the thing with stuff. You can look at a problem from every angle and drive yourself crazy, but sometimes, you just gotta huck a Molotov cocktail at a drone and see what happens... I mean, where I'm from, most things blow up eventually. So I learned that when something dope comes along, you gotta lock it down. If you're always frozen in fear and taking too long to think about what to do, you'll miss your opportunity and maybe get sucked into the propeller of a swamp boat.*
 
-\- Jeffrey R. Holland ([BYU Devotional January 13,
-2009](https://speeches.byu.edu/talks/jeffrey-r-holland_remember-lots-wife/){target="_blank"})
+\- Jason Mendoza ([The Good Place S4 E09](https://en.wikipedia.org/wiki/The_Good_Place){target="_blank"})
 
 + Announcements
-  + [Midterm Solutions](https://rstudio.cloud/spaces/12013/project/294240){target="_blank"}
-  
-  ![](exam1-grade-distribution.png)
-  
-+ R Moment: [plumber](https://www.rplumber.io/){target="_blank"}
+  + No class on Wednesday
++ R Moment: [goodshirt](https://github.com/adam-gruer/goodshirt){target="_blank"}
++ [Homework 4](https://rstudio.cloud/spaces/36306/project/664614){target="_blank"} Questions
 + Bootstrap Continued
   + [Bootstrap coverage](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`09/l09_bs_coverage.Rmd`)
   + [Bootstrap troubles](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`09/l09_bs_troubles.Rmd`)
-+ [Homework 4](https://rstudio.cloud/spaces/12013/project/289762){target="_blank"} Questions
--->
+
 
 #### 2019-11-18
 
