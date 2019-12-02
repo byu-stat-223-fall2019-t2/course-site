@@ -96,8 +96,9 @@ fear.”*
     ![](data-science-workflow.png)
 
   + [Tidy Tuesday Data](https://github.com/rfordatascience/tidytuesday){target="_blank"}
+-->
 
-#### 2019-04-08
+#### 2019-12-02
 
 *Our present and our future will be happier if we are all always conscious of
 the future. As we make current decisions we should always be asking "where will
@@ -107,7 +108,7 @@ this lead?"*
 2019](https://www.lds.org/general-conference/2019/04/media/session_3_talk_8/6023569787001?lang=eng){target="_blank"})
 
 + Announcements:
-  + Final exam opens a week from today (2019-04-15)
+  + Final exam opens a week from today (2019-12-09)
 + R Moment: [RStudio Connect](https://www.rstudio.com/products/connect/){target="_blank"}
   + [RStudio Quickstart](https://www.rstudio.com/products/quickstart/){target="_blank"}
 + Introduction to [Permutation Tests](https://en.wikipedia.org/wiki/Resampling_(statistics)#Permutation_tests){target="_blank"}
@@ -118,8 +119,7 @@ this lead?"*
 (`10/l10_faithful.Rmd`)
   + [GPA](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
 (`10/l10_gpa.Rmd`)
-+ [Homework 5](https://rstudio.cloud/spaces/12013/project/300357){target="_blank"} Assigned (Due 2019-04-15 at 11:59pm)
--->
++ [Homework 5](https://rstudio.cloud/spaces/36306/project/664618){target="_blank"} Assigned (Due 2019-12-09 at 11:59pm)
 
 #### 2019-11-25
 
