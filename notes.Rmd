@@ -97,6 +97,29 @@ fear.”*
 
   + [Tidy Tuesday Data](https://github.com/rfordatascience/tidytuesday){target="_blank"}
 -->
+#### 2019-12-04
+
+*Considering the Savior’s great promise for peace in this life and eternal life 
+in the life to come, discipleship is a price worth paying. It is a price we cannot 
+afford not to pay. By measure, the requirements of discipleship are much, much 
+less than the promised blessings.*
+
+\- James E. Faust ([GC October 2006](https://www.lds.org/general-conference/2006/10/discipleship?lang=eng){target="_blank"})
+
++ Announcements:
+  + Final exam opens 6:30pm Monday, 2019-12-07
+    + Exam administered and submitted through RStudio Cloud
+    + Open notes, open internet - not open neighbor
+    + Due 11:59pm on Wednesday (2019-12-09)
+    + Plan on ~2-3 hours
++ R Moment: [h2o](https://www.h2o.ai/){target="_blank"}
++ Midterm results:
+  ![](exam-1-grade-distribution.png)
++ [Homework 5](https://rstudio.cloud/spaces/36306/project/664618){target="_blank"} Questions
++ [Exam Review](https://rstudio.cloud/spaces/36306/project/664665){target="_blank"}
+  + Exam 5: Movies
+  + Exam 4: General Conference
+    
 
 #### 2019-12-02
 
@@ -123,9 +146,16 @@ this lead?"*
 
 #### 2019-11-25
 
-*Chidi, here's the thing with stuff. You can look at a problem from every angle and drive yourself crazy, but sometimes, you just gotta huck a Molotov cocktail at a drone and see what happens... I mean, where I'm from, most things blow up eventually. So I learned that when something dope comes along, you gotta lock it down. If you're always frozen in fear and taking too long to think about what to do, you'll miss your opportunity and maybe get sucked into the propeller of a swamp boat.*
+*Chidi, here's the thing with stuff. You can look at a problem from every angle
+and drive yourself crazy, but sometimes, you just gotta huck a Molotov cocktail
+at a drone and see what happens... I mean, where I'm from, most things blow up
+eventually. So I learned that when something dope comes along, you gotta lock it
+down. If you're always frozen in fear and taking too long to think about what to
+do, you'll miss your opportunity and maybe get sucked into the propeller of a
+swamp boat.*
 
-\- Jason Mendoza ([The Good Place S4 E09](https://en.wikipedia.org/wiki/The_Good_Place){target="_blank"})
+\- Jason Mendoza ([The Good Place S4
+E09](https://en.wikipedia.org/wiki/The_Good_Place){target="_blank"})
 
 + Announcements
   + No class on Wednesday
