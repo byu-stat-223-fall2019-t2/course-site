@@ -65,8 +65,9 @@ less than the promised blessings.*
 + Installing R and RStudio
   + [R](https://cran.r-project.org/){target="_blank}
   + [RStudio](https://www.rstudio.com/products/rstudio/download/#download){target="_blank}
+-->
 
-#### 2019-04-10
+#### 2019-12-09
 
 *The Lord is with us, mindful of us and blessing us in ways only He can do.
 Prayer can call down the strength and the revelation that we need to center our
@@ -79,24 +80,19 @@ fear.”*
 2018](https://www.lds.org/general-conference/2018/10/be-not-troubled?lang=eng){target="_blank"})
 
 + Announcements:
-  + Statistics Closing Social Tomorrow
-    + 3:30 - 5:00 in the Crabtree building
-    + Ice Cream 3:30 - 4:00 in the hallway between rooms 123 and 135
-  + Final exam opens 6:00pm Monday, 2019-04-15
+  + Final exam opens at 6:30pm today
     + Exam administered and submitted through RStudio Cloud
     + Open notes, open internet - not open neighbor
-    + Due 11:59pm on Wednesday (2019-04-17)
+    + Due 11:59pm on Wednesday (2019-12-11)
     + Plan on ~2-3 hours
-+ R Moment: [h2o](https://www.h2o.ai/){target="_blank"}
-+ Permutation Tests Continued
-  + [GPA](https://rstudio.cloud/spaces/36306/project/642820){target="_blank"}
-(`10/l10_gpa.Rmd`)
++ R Moment: [Plumber](https://www.rplumber.io/){target="_blank"}
++ [Homework 5](https://rstudio.cloud/spaces/36306/project/664618){target="_blank"} Questions
 + [Enter the Tidyverse](https://www.tidyverse.org/){target="_blank"}
 
     ![](data-science-workflow.png)
 
   + [Tidy Tuesday Data](https://github.com/rfordatascience/tidytuesday){target="_blank"}
--->
+
 #### 2019-12-04
 
 *Considering the Savior’s great promise for peace in this life and eternal life 
@@ -107,10 +103,10 @@ less than the promised blessings.*
 \- James E. Faust ([GC October 2006](https://www.lds.org/general-conference/2006/10/discipleship?lang=eng){target="_blank"})
 
 + Announcements:
-  + Final exam opens 6:30pm Monday, 2019-12-07
+  + Final exam opens 6:30pm Monday, 2019-12-09
     + Exam administered and submitted through RStudio Cloud
     + Open notes, open internet - not open neighbor
-    + Due 11:59pm on Wednesday (2019-12-09)
+    + Due 11:59pm on Wednesday (2019-12-11)
     + Plan on ~2-3 hours
 + R Moment: [h2o](https://www.h2o.ai/){target="_blank"}
 + Midterm results:
